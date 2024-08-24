@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ProyectoToken.API.Controllers.PaisesController",
+    "Method": "Lista",
+    "RelativePath": "api/Paises/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoToken.API.Controllers.UsuarioController",
+    "Method": "Autenticar",
+    "RelativePath": "api/Usuario/Autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autorizacion",
+        "Type": "ProyectoToken.BLL.Custom.AutorizacionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoToken.API.Controllers.UsuarioController",
+    "Method": "ObtenerRefreshToken",
+    "RelativePath": "api/Usuario/ObtenerRefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProyectoToken.BLL.Custom.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

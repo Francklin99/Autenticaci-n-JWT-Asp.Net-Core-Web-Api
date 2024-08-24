@@ -1,0 +1,15 @@
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\bin\Debug\net8.0\ProyectoToken.DAL.deps.json
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\bin\Debug\net8.0\ProyectoToken.DAL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\bin\Debug\net8.0\ProyectoToken.DAL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\bin\Debug\net8.0\ProyectoToken.MODEL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\bin\Debug\net8.0\ProyectoToken.MODEL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.AssemblyInfo.cs
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\Proyecto.5E764B9E.Up2Date
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\refint\ProyectoToken.DAL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ProyectoToken.DAL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DAL\obj\Debug\net8.0\ref\ProyectoToken.DAL.dll

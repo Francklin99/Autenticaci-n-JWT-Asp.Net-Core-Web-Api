@@ -1,0 +1,14 @@
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\bin\Debug\net8.0\ProyectoToken.MODEL.deps.json
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\bin\Debug\net8.0\ProyectoToken.MODEL.runtimeconfig.json
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\bin\Debug\net8.0\ProyectoToken.MODEL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\bin\Debug\net8.0\ProyectoToken.MODEL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.AssemblyInfo.cs
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\refint\ProyectoToken.MODEL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ProyectoToken.MODEL.genruntimeconfig.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.MODEL\obj\Debug\net8.0\ref\ProyectoToken.MODEL.dll

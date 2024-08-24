@@ -1,0 +1,11 @@
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\bin\Debug\net8.0\ProyectoToken.DTO.deps.json
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\bin\Debug\net8.0\ProyectoToken.DTO.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\bin\Debug\net8.0\ProyectoToken.DTO.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.AssemblyInfo.cs
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\refint\ProyectoToken.DTO.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ProyectoToken.DTO.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.DTO\obj\Debug\net8.0\ref\ProyectoToken.DTO.dll

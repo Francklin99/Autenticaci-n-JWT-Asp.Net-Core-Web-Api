@@ -1,0 +1,17 @@
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.UTILITY.deps.json
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.UTILITY.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.UTILITY.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.DTO.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.MODEL.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.DTO.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\bin\Debug\net8.0\ProyectoToken.MODEL.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.AssemblyInfo.cs
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\Proyecto.F9FCA4E7.Up2Date
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\refint\ProyectoToken.UTILITY.dll
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ProyectoToken.UTILITY.pdb
+C:\Users\Frank\source\repos\ProyectoToken\ProyectoToken.UTILITY\obj\Debug\net8.0\ref\ProyectoToken.UTILITY.dll

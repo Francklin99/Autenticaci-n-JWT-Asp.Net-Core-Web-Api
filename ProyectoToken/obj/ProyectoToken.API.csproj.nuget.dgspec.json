@@ -1,0 +1,564 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken\\ProyectoToken.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj",
+        "projectName": "ProyectoToken.BLL",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj",
+        "projectName": "ProyectoToken.DAL",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj",
+        "projectName": "ProyectoToken.DTO",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\ProyectoToken.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\ProyectoToken.IOC.csproj",
+        "projectName": "ProyectoToken.IOC",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\ProyectoToken.IOC.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DAL\\ProyectoToken.DAL.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj",
+        "projectName": "ProyectoToken.MODEL",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj",
+        "projectName": "ProyectoToken.UTILITY",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\ProyectoToken.UTILITY.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.UTILITY\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.MODEL\\ProyectoToken.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken\\ProyectoToken.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken\\ProyectoToken.API.csproj",
+        "projectName": "ProyectoToken.API",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken\\ProyectoToken.API.csproj",
+        "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.BLL\\ProyectoToken.BLL.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.DTO\\ProyectoToken.DTO.csproj"
+              },
+              "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\ProyectoToken.IOC.csproj": {
+                "projectPath": "C:\\Users\\Frank\\source\\repos\\ProyectoToken\\ProyectoToken.IOC\\ProyectoToken.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "System.Formats.Asn1": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoToken.DAL\ProyectoToken.DAL.csproj" />
+    <ProjectReference Include="..\ProyectoToken.DTO\ProyectoToken.DTO.csproj" />
+    <ProjectReference Include="..\ProyectoToken.MODEL\ProyectoToken.MODEL.csproj" />
+    <ProjectReference Include="..\ProyectoToken.UTILITY\ProyectoToken.UTILITY.csproj" />
+  </ItemGroup>
+
+</Project>
